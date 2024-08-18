@@ -9,7 +9,8 @@ Welcome to Kodate One's Weblog!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   2024年8月10-17日中国旅行/index
+
+   2024年8月10-17日中国/index
    mastodon.md
 
 Indices and tables
