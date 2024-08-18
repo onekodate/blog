@@ -24,9 +24,12 @@ language = 'ja'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'furo'
+html_title = "Kodate One's Weblog"
 html_static_path = ['_static']
 
 source_suffix = {
     '.rst': 'restructuredtext',
     '.md': 'markdown',
 }
+
+html_css_files = ['custom.css']

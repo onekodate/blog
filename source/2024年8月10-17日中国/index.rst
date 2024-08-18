@@ -15,11 +15,3 @@
    8月16日_北京
    8月17日_中山-深圳-香港-東京
    まとめ
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
