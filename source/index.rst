@@ -11,7 +11,6 @@ Welcome to Kodate One's Weblog!
    :caption: Contents:
 
    2024年8月10-17日中国/index
-   mastodon.md
 
 Indices and tables
 ==================
