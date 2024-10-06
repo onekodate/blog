@@ -8,68 +8,68 @@
 ==========================
 
 
-.. image:: ./img/PXL_20240810_234513883.jpg
+.. figure:: ./img/PXL_20240810_234513883.jpg
 
-.. image:: ./img/PXL_20240810_232356056.jpg
+.. figure:: ./img/PXL_20240810_232356056.jpg
 
-.. image:: ./img/PXL_20240810_232818769.jpg
+.. figure:: ./img/PXL_20240810_232818769.jpg
 
-.. image:: ./img/PXL_20240810_234347845.jpg
+.. figure:: ./img/PXL_20240810_234347845.jpg
 
-.. image:: ./img/PXL_20240810_234504265.jpg
+.. figure:: ./img/PXL_20240810_234504265.jpg
 
 天门山
 ======
 
 2024-08-11 08:33:16	川で洗濯してる上を観光客乗せたゴンドラが渡ってくのもよい
 
-.. image:: ./img/DSCN1842.JPG
+.. figure:: ./img/DSCN1842.JPG
 
-.. image:: ./img/PXL_20240810_235348477.jpg
+.. figure:: ./img/PXL_20240810_235348477.jpg
 
-.. image:: ./img/PXL_20240810_235745634.jpg
+.. figure:: ./img/PXL_20240810_235745634.jpg
 
-.. image:: ./img/PXL_20240811_000425213.jpg
+.. figure:: ./img/PXL_20240811_000425213.jpg
 
-.. image:: ./img/PXL_20240811_000838288.jpg
+.. figure:: ./img/PXL_20240811_000838288.jpg
 
-.. image:: ./img/PXL_20240811_001318934.jpg
+.. figure:: ./img/PXL_20240811_001318934.jpg
 
-.. image:: ./img/PXL_20240811_001631697.jpg
+.. figure:: ./img/PXL_20240811_001631697.jpg
 
-.. image:: ./img/PXL_20240811_002344436.jpg
+.. figure:: ./img/PXL_20240811_002344436.jpg
 
-.. image:: ./img/PXL_20240811_002628061.jpg
+.. figure:: ./img/PXL_20240811_002628061.jpg
 
-.. image:: ./img/PXL_20240811_005524948.jpg
+.. figure:: ./img/PXL_20240811_005524948.jpg
 
-.. image:: ./img/PXL_20240811_005531524.jpg
+.. figure:: ./img/PXL_20240811_005531524.jpg
 
-.. image:: ./img/PXL_20240811_010157177.jpg
+.. figure:: ./img/PXL_20240811_010157177.jpg
 
-.. image:: ./img/PXL_20240811_011604434.jpg
+.. figure:: ./img/PXL_20240811_011604434.jpg
 
-.. image:: ./img/PXL_20240811_015422486.jpg
+.. figure:: ./img/PXL_20240811_015422486.jpg
 
-.. image:: ./img/PXL_20240811_015541228.jpg
+.. figure:: ./img/PXL_20240811_015541228.jpg
 
-.. image:: ./img/PXL_20240811_020555206.jpg
+.. figure:: ./img/PXL_20240811_020555206.jpg
 
-.. image:: ./img/PXL_20240811_020758525.jpg
+.. figure:: ./img/PXL_20240811_020758525.jpg
 
-.. image:: ./img/PXL_20240811_021201004.jpg
+.. figure:: ./img/PXL_20240811_021201004.jpg
 
-.. image:: ./img/PXL_20240811_022118767.jpg
+.. figure:: ./img/PXL_20240811_022118767.jpg
 
-.. image:: ./img/PXL_20240811_022517028.jpg
+.. figure:: ./img/PXL_20240811_022517028.jpg
 
-.. image:: ./img/PXL_20240811_022527747.jpg
+.. figure:: ./img/PXL_20240811_022527747.jpg
 
 张家界市内
 ==========
 
 
-.. image:: ./img/PXL_20240811_035701447.jpg
+.. figure:: ./img/PXL_20240811_035701447.jpg
 
 4路 十字街-高铁站
 ====================
@@ -85,36 +85,52 @@ G6117 张家界西-凤凰古城
 凤凰磁浮线
 ==========
 
-.. image:: ./img/PXL_20240811_061101736.jpg
-.. image:: ./img/PXL_20240811_055910042.jpg
+.. figure:: ./img/PXL_20240811_061101736.jpg
+
+.. figure:: ./img/PXL_20240811_055910042.jpg
 
 凤凰古城 白天
 =============
 
 2024-08-11 16:46:21	【悲報】mstdn.beer金盾に引っかかる
 
-.. image:: ./img/DSCN1883.JPG
-.. image:: ./img/DSCN1843.JPG
-.. image:: ./img/DSCN1844.JPG
-.. image:: ./img/DSCN1846.JPG
-.. image:: ./img/DSCN1847.JPG
-.. image:: ./img/DSCN1850.JPG
-.. image:: ./img/DSCN1855.JPG
-.. image:: ./img/DSCN1860.JPG
-.. image:: ./img/DSCN1863.JPG
-.. image:: ./img/DSCN1869.JPG
-.. image:: ./img/DSCN1876.JPG
-.. image:: ./img/DSCN1878.JPG
+.. figure:: ./img/DSCN1883.JPG
+
+.. figure:: ./img/DSCN1843.JPG
+
+.. figure:: ./img/DSCN1844.JPG
+
+.. figure:: ./img/DSCN1846.JPG
+
+.. figure:: ./img/DSCN1847.JPG
+
+.. figure:: ./img/DSCN1850.JPG
+
+.. figure:: ./img/DSCN1855.JPG
+
+.. figure:: ./img/DSCN1860.JPG
+
+.. figure:: ./img/DSCN1863.JPG
+
+.. figure:: ./img/DSCN1869.JPG
+
+.. figure:: ./img/DSCN1876.JPG
+
+.. figure:: ./img/DSCN1878.JPG
 
 凤凰古城 夜里
 =============
 
 
-.. image:: ./img/PXL_20240811_123708699.jpg
-.. image:: ./img/PXL_20240811_114623422.jpg
-.. image:: ./img/DSCN1894.JPG
-.. image:: ./img/PXL_20240811_121919935.jpg
-.. image:: ./img/PXL_20240811_123049994.jpg
+.. figure:: ./img/PXL_20240811_123708699.jpg
+
+.. figure:: ./img/PXL_20240811_114623422.jpg
+
+.. figure:: ./img/DSCN1894.JPG
+
+.. figure:: ./img/PXL_20240811_121919935.jpg
+
+.. figure:: ./img/PXL_20240811_123049994.jpg
 
 高铁专线A2路
 ===============
@@ -124,7 +140,7 @@ G6117 张家界西-凤凰古城
 G6421 凤凰古城-怀化南
 ----------------------------
 
-.. image:: ./img/PXL_20240811_131704551.jpg
+.. figure:: ./img/PXL_20240811_131704551.jpg
 
 K1172 怀化南-重庆北
 --------------------------

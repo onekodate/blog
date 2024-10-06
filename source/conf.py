@@ -26,6 +26,7 @@ language = 'ja'
 html_theme = 'furo'
 html_title = "Kodate One's Weblog"
 html_static_path = ['_static']
+html_favicon = "./image4.png"
 
 source_suffix = {
     '.rst': 'restructuredtext',
