@@ -11,6 +11,7 @@ Welcome to Kodate One's Weblog!
    :caption: Contents:
 
    2024年8月10-17日中国/index
+   2024年10月11日-14日_北部九州
 
 Indices and tables
 ==================
