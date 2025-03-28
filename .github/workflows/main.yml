@@ -17,7 +17,7 @@ jobs:
           pip install sphinx furo
       - name: Sphinx build
         run: |
-          sphinx-build -M html ./source ./docs
+          make html
 
   deploy:
     needs: build
